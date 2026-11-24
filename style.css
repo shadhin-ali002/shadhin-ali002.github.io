@@ -127,6 +127,10 @@ h3 { font-size: 1.05rem; margin: 0 0 8px; }
   border-radius: 6px; padding: 3px 10px; font-size: 14px;
 }
 
+.contact-topics { margin: 0 0 24px; }
+
+.pubs-heading { color: var(--muted); font-size: 13px; text-transform: uppercase; letter-spacing: .08em; margin: 0 0 12px; }
+.pubs + .pubs-heading { margin-top: 28px; }
 .pubs { margin: 0; padding-left: 20px; }
 .pubs li { margin-bottom: 16px; color: var(--muted); }
 .pubs strong { color: var(--text); }
